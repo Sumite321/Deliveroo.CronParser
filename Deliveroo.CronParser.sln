@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deliveroo.CronParser", "Deliveroo.CronParser\Deliveroo.CronParser.csproj", "{89E85BB5-507A-4F7C-A84E-70747A1C9576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deliveroo.CronParser.Tests", "Deliveroo.CronParser.Tests\Deliveroo.CronParser.Tests.csproj", "{B8BFE5A8-9DEB-4F3C-A2F7-724070EBD95A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E85BB5-507A-4F7C-A84E-70747A1C9576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E85BB5-507A-4F7C-A84E-70747A1C9576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E85BB5-507A-4F7C-A84E-70747A1C9576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E85BB5-507A-4F7C-A84E-70747A1C9576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8BFE5A8-9DEB-4F3C-A2F7-724070EBD95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BFE5A8-9DEB-4F3C-A2F7-724070EBD95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BFE5A8-9DEB-4F3C-A2F7-724070EBD95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BFE5A8-9DEB-4F3C-A2F7-724070EBD95A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿*/15 0 1,15 * 1-5 /usr/bin/find
+0 12 10 6 3 /bin/backup
+invalid cron expression
+61 25 32 13 8 /bin/task
